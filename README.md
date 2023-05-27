@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MzwakheL
-- 👀 I’m interested in learning software engineering.
-- 🌱 I’m currently learning software engineering at ALX.
+- 👀 Aspiring Software Engineer.
+- 🌱 I’m currently learning software engineering at HyperionDev.
 - 💞️ I’m looking to collaborate on various projects that will give me an opportunity to learn SE.
 - 📫 How to reach me Email: mzwakhe.louw@gmail.com | LinkedIn: Mzwakhe Louw
 
