@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MzwakheL
 - 👀 Aspiring Software Engineer.
-- 🌱 I’m currently studying software engineering at HyperionDev and previously studied at ALX.
+- 🌱 Graduate at HyperionDev as a software engineering.
 - 💞️ I’m looking to collaborate on various projects that will give me an opportunity to learn SE.
 - 📫 How to reach me Email: mzwakhe.louw@gmail.com | LinkedIn: Mzwakhe Louw
 
