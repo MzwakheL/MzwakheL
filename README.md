@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MzwakheL
-- 👀 Aspiring Software Engineer.
-- 🌱 Graduate at HyperionDev as a software engineering.
-- 💞️ I’m looking to collaborate on various projects that will give me an opportunity to learn SE.
+- 👀 Python Developer.
+- 🌱 Graduated at HyperionDev as a Software Engineer.
+- 💞️ I’m looking to collaborate on Python projects that will give me an opportunity to gain more exposure.
 - 📫 How to reach me Email: mzwakhe.louw@gmail.com | LinkedIn: Mzwakhe Louw
 
 <!---
